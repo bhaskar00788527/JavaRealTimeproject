@@ -1,0 +1,6 @@
+com\Bhaskar\service\SsaWebService.class
+com\Bhaskar\entity\SsaWebRequest.class
+com\Bhaskar\rest\SsaWebRestController.class
+com\Bhaskar\Application.class
+com\Bhaskar\entity\SsaWebResponse.class
+com\Bhaskar\service\SsaWebServiceImpl.class
